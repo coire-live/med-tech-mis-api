@@ -1,1 +1,2 @@
-# med-tech-mis-api
+# Med-Tech-EMR
+Electronic Medical Records platform
